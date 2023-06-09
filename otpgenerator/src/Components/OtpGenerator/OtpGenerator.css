@@ -1,0 +1,25 @@
+.btn-outline-danger {
+  width: 40rem;
+}
+
+.design-it {
+  font-family: "Kaushan Script", cursive;
+  font-size: 3rem;
+  display: flex;
+  justify-content: center;
+  margin-top: 2rem;
+  color: royalblue;
+}
+
+.design-it-back {
+  color: coral;
+  font-weight: 800;
+}
+
+.design {
+  margin-top: 1rem;
+  font-family: "Playfair", serif;
+  display: flex;
+  justify-content: center;
+  font-size: 1.5rem;
+}
